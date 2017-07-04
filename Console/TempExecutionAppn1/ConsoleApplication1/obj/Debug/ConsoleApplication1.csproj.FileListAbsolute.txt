@@ -1,0 +1,15 @@
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\eSuite.Core.Web.dll
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\eTrading.Core.Data.dll
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\eSuite.Core.Security.Mvc.dll
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\eSuite.Core.Data.dll
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ConsoleApplication1.exe.config
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\SK ARUN\Projects\Samples\Console\TempExecutionAppn1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

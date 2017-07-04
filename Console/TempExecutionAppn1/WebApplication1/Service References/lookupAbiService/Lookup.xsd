@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/SSP.eTrading.Services.Reference.Models.PolicySummaryLookup" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/SSP.eTrading.Services.Reference.Models.PolicySummaryLookup" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="PolicySummary">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:TdfFilePdfBase">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="PolicySummary" nillable="true" type="tns:PolicySummary" />
+  <xs:complexType name="TdfFilePdfBase">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Broker" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FileName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="InsurerName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LineOfBusiness" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Panel" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SchemeMnemonic" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SchemeName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ValidFrom" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="ValidTo" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TdfFilePdfBase" nillable="true" type="tns:TdfFilePdfBase" />
+</xs:schema>

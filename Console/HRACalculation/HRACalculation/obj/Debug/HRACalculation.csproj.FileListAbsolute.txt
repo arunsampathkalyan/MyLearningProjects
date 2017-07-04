@@ -1,0 +1,6 @@
+E:\SK ARUN\Projects\Samples\Console\HRACalculation\HRACalculation\bin\Debug\HRACalculation.exe.config
+E:\SK ARUN\Projects\Samples\Console\HRACalculation\HRACalculation\bin\Debug\HRACalculation.exe
+E:\SK ARUN\Projects\Samples\Console\HRACalculation\HRACalculation\bin\Debug\HRACalculation.pdb
+E:\SK ARUN\Projects\Samples\Console\HRACalculation\HRACalculation\obj\Debug\HRACalculation.csprojResolveAssemblyReference.cache
+E:\SK ARUN\Projects\Samples\Console\HRACalculation\HRACalculation\obj\Debug\HRACalculation.exe
+E:\SK ARUN\Projects\Samples\Console\HRACalculation\HRACalculation\obj\Debug\HRACalculation.pdb

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/SSP.eTrading.Services.Reference.Models" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/SSP.eTrading.Services.Reference.Models" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:simpleType name="LineOfBusiness">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Private Motorcar" />
+      <xs:enumeration value="Motorcycle" />
+      <xs:enumeration value="Commercial VehicleService" />
+      <xs:enumeration value="Household" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="LineOfBusiness" nillable="true" type="tns:LineOfBusiness" />
+  <xs:complexType name="ArrayOfLookupValue">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="LookupValue" nillable="true" type="tns:LookupValue" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfLookupValue" nillable="true" type="tns:ArrayOfLookupValue" />
+  <xs:complexType name="LookupValue">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ABICode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DisplayText" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Locale" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ParentAbi" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Source" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Visible" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="LookupValue" nillable="true" type="tns:LookupValue" />
+</xs:schema>

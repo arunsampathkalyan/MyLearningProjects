@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Controls>
+  <control>
+    <controlname>textbox</controlname>
+    <controllable>FileInformation</controllable>
+    <controlvalue>
+      <value></value>
+    </controlvalue>
+  </control>
+  
+    
+    <control>
+    <controlname>ddl</controlname>
+    <controllable>Aruntest</controllable>
+    <controlvalue>
+      <value>working</value>
+    <value>excellent</value>
+    <value>awesome</value>
+    </controlvalue>
+  </control>
+    
+  <control>
+    <controlname>ddl</controlname>
+    <controllable>FileInformation</controllable>
+    <controlvalue>
+        <value>asdfas</value>
+        <value>asdfasd</value>
+        <value>asdfasd</value>
+    </controlvalue>
+  </control>
+  <control>
+    <controlname>textbox</controlname>
+    <controllable>FileInformation</controllable>
+    <controlvalue>
+        <value></value>
+    </controlvalue>
+  </control>
+  
+  <control>
+    <controlname>textbox</controlname>
+    <controllable>FileInformation</controllable>
+    <controlvalue>
+      <value></value>
+    </controlvalue>
+  </control>
+
+</Controls>

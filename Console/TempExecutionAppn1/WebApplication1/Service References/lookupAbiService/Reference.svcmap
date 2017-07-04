@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="24ae5e25-8b62-4bdd-a28b-08853fc43600" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Lookup.xsd" MetadataType="Schema" ID="601d00a5-050f-4e70-9879-eb1dcc69429d" SourceId="1" SourceUrl="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?xsd=xsd4" />
+    <MetadataFile FileName="Lookup1.xsd" MetadataType="Schema" ID="19f18c26-a4b0-40f7-9f08-1a251870fbb7" SourceId="1" SourceUrl="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?xsd=xsd3" />
+    <MetadataFile FileName="Lookup2.xsd" MetadataType="Schema" ID="9fde6bf1-5b97-40af-abf1-37d843f2a3eb" SourceId="1" SourceUrl="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?xsd=xsd2" />
+    <MetadataFile FileName="Lookup3.xsd" MetadataType="Schema" ID="27450703-53e3-491c-9409-84c86a46a507" SourceId="1" SourceUrl="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?xsd=xsd5" />
+    <MetadataFile FileName="Lookup4.xsd" MetadataType="Schema" ID="f8375724-015b-49bd-92d6-e4d562058a01" SourceId="1" SourceUrl="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?xsd=xsd0" />
+    <MetadataFile FileName="Lookup5.xsd" MetadataType="Schema" ID="e8538cd0-edfe-4281-a8e0-c913a5985177" SourceId="1" SourceUrl="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?xsd=xsd1" />
+    <MetadataFile FileName="LookupService.wsdl" MetadataType="Wsdl" ID="2e2ce6de-84a0-4407-a728-20992474ef96" SourceId="1" SourceUrl="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

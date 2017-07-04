@@ -1,0 +1,6 @@
+E:\SK ARUN\Projects\Samples\Console\AlgorithmSamples\AlgorithmSamples\bin\Debug\AlgorithmSamples.exe.config
+E:\SK ARUN\Projects\Samples\Console\AlgorithmSamples\AlgorithmSamples\bin\Debug\AlgorithmSamples.exe
+E:\SK ARUN\Projects\Samples\Console\AlgorithmSamples\AlgorithmSamples\bin\Debug\AlgorithmSamples.pdb
+E:\SK ARUN\Projects\Samples\Console\AlgorithmSamples\AlgorithmSamples\obj\Debug\AlgorithmSamples.csprojResolveAssemblyReference.cache
+E:\SK ARUN\Projects\Samples\Console\AlgorithmSamples\AlgorithmSamples\obj\Debug\AlgorithmSamples.exe
+E:\SK ARUN\Projects\Samples\Console\AlgorithmSamples\AlgorithmSamples\obj\Debug\AlgorithmSamples.pdb

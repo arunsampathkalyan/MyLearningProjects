@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/SSP.eTrading.Services.Reference.Models.PolicyBookletLookup" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/SSP.eTrading.Services.Reference.Models.PolicyBookletLookup" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://iconstestgrp17.ssp-hosting.com/SSP.eTrading.Services/Lookup.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/SSP.eTrading.Services.Reference.Models.PolicySummaryLookup" />
+  <xs:complexType name="PolicyBooklet">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/SSP.eTrading.Services.Reference.Models.PolicySummaryLookup" base="q1:TdfFilePdfBase">
+        <xs:sequence />
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="PolicyBooklet" nillable="true" type="tns:PolicyBooklet" />
+</xs:schema>
